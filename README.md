@@ -7,7 +7,7 @@ Generate a new ssh key pair with OpenSSH:
 ssh-keygen -t ssh-keygen -t rsa -N "" -f mykey
 ```
 
-Start server on localhost port 222:
+Start server on localhost port 2222:
 
 ```
 npm install
