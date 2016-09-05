@@ -26,5 +26,8 @@ cp dbclient ../
 cd ../
 ```
 
-./dbclient -p 2222 localhost
+Connect to the server triggering the bug:
 
+```
+./dbclient -p 2222 localhost
+```
